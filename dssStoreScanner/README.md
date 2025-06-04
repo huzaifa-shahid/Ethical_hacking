@@ -16,8 +16,7 @@ This tool automates the detection and analysis of exposed `.DS_Store` files on w
 
 ### 1. Extract Toolkit
 ```bash
-unzip dsstore_scanner_toolkit.zip
-cd dsstore_scanner_toolkit/scanner
+cd dsstore_scanner/scanner
 ```
 
 ### 2. Run Setup
